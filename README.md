@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Gray</h1>
 <h3 align="center">A passionate blockchain & cybersecurity analyst from California</h3>
 
-- 🌱 I’m currently learning **Azure + blockchain development**
+- 🌱 I’m currently learning **Azure and Blockchain development**
 
 - 👯 I’m looking to collaborate on **Blockchain or cybersecurity projects**
 
