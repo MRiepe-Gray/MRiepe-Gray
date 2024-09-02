@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1Mw60igJiSwAOV8ANt0tlXzDDGejphBx-?usp=sharing](https://drive.google.com/drive/folders/1Mw60igJiSwAOV8ANt0tlXzDDGejphBx-?usp=sharing)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RzD-N4S4xXQIfdxEnLvxQAo3e7HGXXtN/edit?usp=sharing&ouid=108495146509467371556&rtpof=true&sd=true](https://docs.google.com/document/d/1RzD-N4S4xXQIfdxEnLvxQAo3e7HGXXtN/edit?usp=sharing&ouid=108495146509467371556&rtpof=true&sd=true)
+- 📄 Know about my experiences https://www.dropbox.com/scl/fi/4mqrue9zpjylm078whe0j/Cybersecurity-Resume-2024.pdf?rlkey=czwq2mbhe6panl5hi0hxpwwcf&st=x9km48y5&dl=0
 
-- ⚡ Fun fact **I have two bachelor's degrees in science and a passion for social media**
+- ⚡ Fun fact **I have two bachelor's degrees in science and a passion for blockchain & social media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
