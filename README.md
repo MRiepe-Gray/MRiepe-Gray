@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences https://www.dropbox.com/scl/fi/4mqrue9zpjylm078whe0j/Cybersecurity-Resume-2024.pdf?rlkey=czwq2mbhe6panl5hi0hxpwwcf&st=x9km48y5&dl=0
 
-- ⚡ Fun fact **I have two bachelor's degrees in science and a passion for blockchain & social media**
+- ⚡ Fun fact **I have two bachelor's degrees in science and a passion for cybersecurity, blockchain, & social media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
