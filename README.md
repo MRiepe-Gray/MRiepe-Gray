@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Gray</h1>
 <h3 align="center">A passionate cybersecurity & blockchain professional from California</h3>
 
-- 🌱 I’m currently learning **Azure and Microsoft based SIEM/ UEM based tools**
+- 🌱 I’m currently learning **Azure Security**
 
 - 👯 I’m looking to collaborate on **Blockchain or cybersecurity projects**
 
