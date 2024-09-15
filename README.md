@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt Gray</h1>
 <h3 align="center">A passionate cybersecurity & blockchain professional from California</h3>
 
-- 🌱 I’m currently learning **Azure Security**
+- 🌱 I’m currently learning **Azure Security and Penetration Testing**
 
-- 👯 I’m looking to collaborate on **Blockchain or cybersecurity projects**
+- 👯 I’m looking to collaborate on **Cybersecurity or Blockchain projects**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1Mw60igJiSwAOV8ANt0tlXzDDGejphBx-?usp=sharing](https://drive.google.com/drive/folders/1Mw60igJiSwAOV8ANt0tlXzDDGejphBx-?usp=sharing)
 
